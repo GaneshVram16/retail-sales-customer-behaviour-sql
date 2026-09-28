@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,payment_method,channel,delivery_days,promised_days,delivery_status
+1,5297,2025-05-08,UPI,Mobile App,3,5,On Time
+2,1430,2025-03-27,UPI,Mobile App,5,4,Late
+3,2162,2025-11-11,UPI,Mobile App,5,5,On Time
+4,5025,2025-01-28,UPI,Web,3,3,On Time
+5,5914,2025-05-02,UPI,Web,3,3,On Time
+6,27,2025-09-08,Credit Card,Mobile App,1,5,On Time
+7,3772,2025-03-02,UPI,Web,8,3,Late
+8,1442,2025-06-20,COD,Web,2,3,On Time
+9,6743,2025-09-29,UPI,Mobile App,2,3,On Time
+10,4688,2025-11-21,Wallet,Mobile App,1,5,On Time
