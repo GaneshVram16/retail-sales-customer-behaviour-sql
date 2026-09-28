@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price,margin_rate
+1,Electronics Product 001,Electronics,10213.61,0.255
+2,Home Product 002,Home,3594.37,0.172
+3,Fashion Product 003,Fashion,1390.57,0.215
+4,Beauty Product 004,Beauty,170.63,0.205
+5,Sports Product 005,Sports,3462.0,0.222
+6,Books Product 006,Books,599.76,0.313
+7,Grocery Product 007,Grocery,684.63,0.383
+8,Accessories Product 008,Accessories,1460.4,0.401
+9,Electronics Product 009,Electronics,15987.02,0.271
+10,Home Product 010,Home,1673.09,0.245
+11,Fashion Product 011,Fashion,1022.05,0.419
+12,Beauty Product 012,Beauty,659.98,0.161
